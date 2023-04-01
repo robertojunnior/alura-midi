@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Alura Books</h1>
 
 <p align="center">
-Este é o 1º projeto em desenvolvimento com a utilização de JavaScript, que faz parte da Formação Front End da Platafroma Alura, apresentado por Vanessa Me Tonini 😉.<br/>
+Este é o 1º projeto em desenvolvimento com a utilização de JavaScript, que faz parte da Formação Front End da Platafroma Alura, apresentado por Vanessa Me Tonini. 🧑‍🚀❤️‍🔥<br/>
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@ Este é o 1º projeto em desenvolvimento com a utilização de JavaScript, que f
 <br>
 
 <br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
 
 ## 🚀 Tecnologias
 
@@ -42,7 +41,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto se chama "AluraMidi".
+Este projeto se chama "AluraMidi".<br>
 O Alura Midi é um instrumento musical de interface digital, onde a cada botão vamos reproduzir o som de um instrumento.
 
 <br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-midi/"> "Clicar aqui".</a>🚀
