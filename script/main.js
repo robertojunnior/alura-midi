@@ -15,5 +15,5 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
         tocaSom(idAudio);
     }
     
-    console.log(contador)
+    console.log(contador);
 }
