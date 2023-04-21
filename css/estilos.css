@@ -27,9 +27,9 @@ h1 {
 .teclado {
   background: var(--grey-dark-top);
   box-shadow: 0 4px 0 10px #666, 10px  10px 10px #000;
-  border-radius: 30px;
+  border-radius: 10px;
   display: grid;
-  gap: 10px;
+  gap: 15px;
   grid-template-columns: repeat(3, 1fr);
   padding: 10px;
 }
@@ -37,7 +37,7 @@ h1 {
 .tecla {
   background-color: var(--cinza);
   border-radius: 30px;
-  box-shadow: 3px 3px 0 var(--branca);
+  box-shadow: 1px 3px 0 var(--branca);
   color: var(--vermelha-escura);
   cursor: pointer;
   height: 120px;
