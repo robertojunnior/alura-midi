@@ -4,11 +4,13 @@
   --vermelha-escura: #af303f;
   --branca: #fff;
   --luz: rgb(229, 255, 0);
+  --grey-dark: #2f2f2f;
+  --grey-dark-top: #464646;
 }
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background: var(--grey-dark);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -23,8 +25,8 @@ h1 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-  box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
+  background: var(--grey-dark-top);
+  box-shadow: 0 4px 0 10px #666, 10px  10px 10px #000;
   border-radius: 30px;
   display: grid;
   gap: 10px;
@@ -33,10 +35,10 @@ h1 {
 }
 
 .tecla {
-  background-color: var(--branca);
+  background-color: var(--cinza);
   border-radius: 30px;
-  box-shadow: 3px 3px 0 var(--cinza);
-  color: var(--vermelha);
+  box-shadow: 3px 3px 0 var(--branca);
+  color: var(--vermelha-escura);
   cursor: pointer;
   height: 120px;
   font-size: 1.75em;
@@ -51,7 +53,7 @@ h1 {
   background-color: var(--vermelha);
   border: 4px solid  var(--vermelha);
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset;
-  color: var(--branca);
+  color: var(--luz);
   outline: none;
 }
 
