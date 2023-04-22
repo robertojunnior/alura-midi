@@ -10,7 +10,7 @@
 
 body {
   align-items: center;
-  background: var(--grey-dark);
+  background: linear-gradient(45deg, #2f2f2f, grey, black);
   display: flex;
   justify-content: center;
   flex-direction: column;
