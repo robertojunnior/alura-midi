@@ -20,7 +20,7 @@ Este é o 1º projeto em desenvolvimento com a utilização de JavaScript, que f
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura-midi/">
-    <img width="90%" src="images/tela-projeto-aluraMidi.png" alt="tela do projeto alura-midi">
+    <img width="90%" src="images/mockup-entrega.png" alt="tela do projeto alura-midi">
     </a>
   </div>
 
